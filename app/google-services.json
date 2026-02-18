@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "135221231784",
+    "project_id": "allgauth-b09e9",
+    "storage_bucket": "allgauth-b09e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135221231784:android:640c8027252de5daa7c29d",
+        "android_client_info": {
+          "package_name": "com.example.allgauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135221231784-pnk52hhdqrme0fmhgo57u1ic8n6pgaq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allgauth",
+            "certificate_hash": "4fb40617af9e45cc69336ca0286284b947403a1b"
+          }
+        },
+        {
+          "client_id": "135221231784-865kk58lrd3l2e2qnc0onuk1vjhb00t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5KxGeTC-kvSS4Uia6t8cmhOZAjq5JQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135221231784-865kk58lrd3l2e2qnc0onuk1vjhb00t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
